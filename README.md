@@ -4,7 +4,7 @@ A easy bcrypt wrapper
 
 **Usage**
 
-```
+```go
 package main
 import "github.com/mattb2401/signum"
 
